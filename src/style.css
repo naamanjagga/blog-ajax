@@ -1,0 +1,26 @@
+#left {
+    border: 20px solid red;
+    float: left;
+    width: 46%;
+    min-height: 600px;
+}
+#right {
+    padding: 2%;
+    border: 20px solid red;
+    min-height: 548px;
+    float: left;
+    width: 40%;
+}
+#blog {
+    margin: 8%;
+}
+#btn1 , #btn2 {
+    float: right;
+    margin: 10%;
+    background-color: aqua;
+    border: none;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    font-size: 16px;
+}
